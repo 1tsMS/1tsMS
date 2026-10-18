@@ -108,7 +108,7 @@ def header(display_key, faces):
     <text x="68" y="{92 + size * 0.74:.0f}" class="name" font-size="{size}" letter-spacing="{ls}" fill="#e6edf3">{name}</text>
     <text x="72" y="{92 + size * 0.74 + 42:.0f}" class="role" font-size="26" fill="#9ba7b4">{ROLE.replace('&', '&amp;')}</text>
     <text x="72" y="{92 + size * 0.74 + 76:.0f}" class="mono" font-size="15" fill="#e3b341">{TAG}<tspan class="cursor"> _</tspan></text>
-    <text x="1128" y="52" text-anchor="end" class="mono" font-size="12" fill="#4d5d6e" letter-spacing="1">{COORD}</text>
+    <text x="1128" y="52" text-anchor="end" class="mono" font-size="13" fill="#8b9bb0" letter-spacing="1">{COORD}</text>
   </g>
 </svg>
 """
