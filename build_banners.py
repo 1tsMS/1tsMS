@@ -19,7 +19,7 @@ NAME = "Mohammed Salah Chogle"
 ROLE = "Robotics & Automation Engineer"
 META = "1tsMS / VESIT '27 / Navi Mumbai"
 TAG = "firmware · control · rapid prototyping"
-COORD = "19.03°N  73.02°E"
+COORD = "25.0783°N  77.3456°W"
 QUOTE = "Everything is permitted? I like the sound of that."
 QUOTE_BY = "Edward Kenway"
 
