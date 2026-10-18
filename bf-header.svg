@@ -54,6 +54,6 @@
     <text x="68" y="156" class="name" font-size="86" letter-spacing="1" fill="#e6edf3">MOHAMMED SALAH CHOGLE</text>
     <text x="72" y="198" class="role" font-size="26" fill="#9ba7b4">Robotics &amp; Automation Engineer</text>
     <text x="72" y="232" class="mono" font-size="15" fill="#e3b341">firmware · control · rapid prototyping<tspan class="cursor"> _</tspan></text>
-    <text x="1128" y="52" text-anchor="end" class="mono" font-size="12" fill="#4d5d6e" letter-spacing="1">19.03°N  73.02°E</text>
+    <text x="1128" y="52" text-anchor="end" class="mono" font-size="13" fill="#8b9bb0" letter-spacing="1">19.03°N  73.02°E</text>
   </g>
 </svg>
